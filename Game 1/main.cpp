@@ -7,7 +7,7 @@ using namespace sf;
 int main() {
     srand(static_cast<unsigned>(time(NULL)));
 
-    // Game Engine
+    // Game Engine ///
     Game1 game;
    
 

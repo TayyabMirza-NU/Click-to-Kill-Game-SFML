@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GameProjects\\Game 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA862FBF-FF89-4F33-A41D-9D504C47051F}|Game 1\\Game 1.vcxproj|D:\\GameProjects\\Game 1\\Game 1\\Game1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DA862FBF-FF89-4F33-A41D-9D504C47051F}|Game 1\\Game 1.vcxproj|solutionrelative:Game 1\\Game1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA862FBF-FF89-4F33-A41D-9D504C47051F}|Game 1\\Game 1.vcxproj|D:\\GameProjects\\Game 1\\Game 1\\Game1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DA862FBF-FF89-4F33-A41D-9D504C47051F}|Game 1\\Game 1.vcxproj|solutionrelative:Game 1\\Game1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA862FBF-FF89-4F33-A41D-9D504C47051F}|Game 1\\Game 1.vcxproj|D:\\GameProjects\\Game 1\\Game 1\\Game1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA862FBF-FF89-4F33-A41D-9D504C47051F}|Game 1\\Game 1.vcxproj|solutionrelative:Game 1\\Game1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA862FBF-FF89-4F33-A41D-9D504C47051F}|Game 1\\Game 1.vcxproj|D:\\GameProjects\\Game 1\\Game 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,34 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game1.cpp",
               "DocumentMoniker": "D:\\GameProjects\\Game 1\\Game 1\\Game1.cpp",
               "RelativeDocumentMoniker": "Game 1\\Game1.cpp",
               "ToolTip": "D:\\GameProjects\\Game 1\\Game 1\\Game1.cpp",
               "RelativeToolTip": "Game 1\\Game1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T18:56:55.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T18:56:55.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game1.h",
               "DocumentMoniker": "D:\\GameProjects\\Game 1\\Game 1\\Game1.h",
               "RelativeDocumentMoniker": "Game 1\\Game1.h",
               "ToolTip": "D:\\GameProjects\\Game 1\\Game 1\\Game1.h",
               "RelativeToolTip": "Game 1\\Game1.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-27T18:54:47.721Z",
               "EditorCaption": ""
@@ -64,8 +67,7 @@
               "RelativeToolTip": "Game 1\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T18:42:20.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T18:42:20.432Z"
             }
           ]
         }
